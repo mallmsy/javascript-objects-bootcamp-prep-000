@@ -2,4 +2,9 @@ var playlist = {
   shaggy: 'it wasn\'t me'
 }
 
-Object.assign({}, playlist, {[ween]: 'chocolate town'})
+
+
+function updatePlaylist (playlist, artistName, songTitle) {
+  return Object.assign({}, playlist, {[ween]: 'chocolate town'})
+}
+
