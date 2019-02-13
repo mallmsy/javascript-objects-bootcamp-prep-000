@@ -1,10 +1,10 @@
 var playlist = {
-  'My Bloody Valentine': 'it wasn\'t me'
+  'My Bloody Valentine': 'Sometimes'
 }
 
 
 
 function updatePlaylist (playlist, artistName, songTitle) {
- playlist['Phil Ochs'] = 'chocolate town';
+ playlist['Slowdive'] = 'Alison'
 }
 
