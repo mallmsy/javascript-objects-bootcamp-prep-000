@@ -2,4 +2,4 @@ var playlist = {
   shaggy: 'it wasn\'t me'
 }
 
-return Object.assign({}, playlist, {[ween]: 'chocolate town'})
+Object.assign({}, playlist, {[ween]: 'chocolate town'})
