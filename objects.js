@@ -1,5 +1,5 @@
 var playlist = {
-  shaggy: 'it wasn\'t me'
+  'My Bloody Valentine': 'it wasn\'t me'
 }
 
 
